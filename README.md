@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Navigation
 
-You can use the [editor on GitHub](https://github.com/LeiaReid/about/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Introduction](https://leiareid.github.io/austerity/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Devolved funding & education](https://leiareid.github.io/funding/)
 
-### Markdown
+[Teaching](https://leiareid.github.io/teaching/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Child Mobility Comparison](https://leiareid.github.io/comparison/)
 
-```markdown
-Syntax highlighted code block
+[Sources](https://leiareid.github.io/sources/)
 
-# Header 1
-## Header 2
-### Header 3
+## About
 
-- Bulleted
-- List
+This data-driven investigative project was created in response to the end of austerity. A whole generation of British children weren't given the same oppertunities to excel because of funding barriers, compared to the generations before them. I wanted to investigate this. 
 
-1. Numbered
-2. List
+Hence the child mobility comparison. It helps show how education and welfare funding has impacted children, and the difference in disposable household income.
 
-**Bold** and _Italic_ and `Code` text
+I've collected most of the recent Department for Education Data to provide a comprehensive picture of the British Educational system, as well speaking to experts in the field, to paint a picture of daily struggles. 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Navigation
 
-### Jekyll Themes
+[Introduction](https://leiareid.github.io/austerity/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LeiaReid/about/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Devolved funding & education](https://leiareid.github.io/funding/)
 
-### Support or Contact
+[Teaching](https://leiareid.github.io/teaching/)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Child Mobility Comparison](https://leiareid.github.io/comparison/)
+
+[Sources](https://leiareid.github.io/sources/)
